@@ -24,3 +24,4 @@ def ternary(arr, x):
 
 arr = [1, 2, 4, 8, 16, 32, 64, 128, 256]
 ternary(arr, 64)
+print("Element found at index:", ternary(arr, 64))
